@@ -1,0 +1,5 @@
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+https://stackoverflow.com/questions/27590039/running-ansible-playbook-using-python-api   to run anisble -playbook from python
+python-terraform module to execute tf file udsing python code
+https://docs.ansible.com/ansible/latest/dev_guide/developing_api.html
+
